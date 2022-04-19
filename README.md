@@ -38,7 +38,7 @@ Pull and init the demo:
 - __docker pull store/intersystems/iris-community:2020.2.0.204.0__  
 - __docker pull rcemper/rcc:demoJS__   
 - __docker run --name ini1 --init -it --rm --privileged -v vol1:/external rcemper/rcc:demoJS bash /rcc/init.sh__   
-Detailed description: https://github.com/rcemper/WSockClientMicroSV/blob/master/READMEwindows.MD
+[Detailed description](https://github.com/rcemper/WSockClientMicroSV/blob/master/READMEwindows.MD)    
 ##### How to Work With Version 1
 Run first a Docker exec session for the Control / In-Out utility in IRIS     
 __docker run --name iris1 --init --rm -d -p 52773:52773 -p 51773:51773 -v vol1:/external store/intersystems/iris-community:2020.2.0.204.0 -b /external/pre.copy__  
