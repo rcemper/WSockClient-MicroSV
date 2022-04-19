@@ -20,8 +20,7 @@ Control / Input / Output is all managed from a interactive utility in IRIS.
 - A single docker container does it all.  
 - Run the same image on native Docker (Linux) and Docker Desktop for Windows,
   (had no acces to MAC)  
-- Build an All-in-1 image with Sevice and IRIS in a common container.  
-  https://openexchange.intersystems.com/package/IRIS-NativeAPI-Nodejs-compact
+- Build an [All-in-1 image](https://openexchange.intersystems.com/package/IRIS-NativeAPI-Nodejs-compact) with Sevice and IRIS in a common container.    
 ### What I learned
 - Handling and running more than 1 Docker container in cooperation.  
 - Working with Docker volumes.  
