@@ -59,9 +59,3 @@ Detailed descriptions:
 [Read more](https://github.com/rcemper/WSockClientMicroSV/blob/master/READMORE.md)    
 [Readme Windows](https://github.com/rcemper/WSockClientMicroSV/blob/master/READMEwindows.MD)  
 [Article in DC](https://community.intersystems.com/post/websocket-client-js-iris-native-api-docker-micro-server)    
-
-[DemoService SMP](https://wsockclient-microsv.demo.community.intersystems.com/csp/sys/UtilHome.csp)       
-[DemoService Terminal](https://wsockclient-microsv.demo.community.intersystems.com/terminal/)    
-
-**Code Quality**   
-<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/671/screenshots/4bh7tyapellnv0cjgw34riapcfo.jpg">
