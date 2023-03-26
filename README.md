@@ -1,3 +1,5 @@
+<p align="right"><img src="https://github.com/isc-at/CPIPE/blob/master/archived.jpg"/></p>
+
 #### Version 2 added
 Updated according OEX templates    
 Removed hand crafted containers in favor of standard distibutions   
